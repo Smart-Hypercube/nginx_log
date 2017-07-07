@@ -1,0 +1,51 @@
+{
+        "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)":
+'FF W',
+        "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0":
+'FF W',
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36":
+'SFR W',
+        "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36":
+'SFR W',
+        "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36":
+'SFR W',
+        "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)":
+'IE9 W',
+        "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)":
+'IE10 W',
+        "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.2141.400 QQBrowser/9.5.10219.400":
+'QQ W',
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36":
+'SFR mac',
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0":
+'FF mac',
+        "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8":
+'FF mac',
+        "Mozilla/5.0 (Android 7.1.1; Mobile; rv:54.0) Gecko/54.0 Firefox/54.0":
+'FF AD',
+        "Mozilla/5.0 (Android 7.1.1; Mobile; rv:54.0.1) Gecko/54.0.1 Firefox/54.0.1":
+'FF AD',
+        "Mozilla/5.0 (Andorid; CPU Andorid OS 10_3_2  ) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 Tx(Tx/6.1.0) WindVane/8.1.0 750x1334":
+'WindVane AD',
+        "Mozilla/5.0 (Linux; U; Android 5.1; zh-CN; GN5001S Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.5.0.939 Mobile Safari/537.36":
+'UC AD',
+        "Mozilla/5.0 (Linux; U; Android 5.1; en-US; M571C Build/LMY47D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30":
+'UC AD',
+        "Mozilla/5.0 (Linux; Android 7.0; VIE-AL10 Build/HUAWEIVIE-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.116 Mobile Safari/537.36 baidubrowser/7.12.12.0 (Baidu; P1 7.0)":
+'Baidu Huawei',
+        "Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; MI 5 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.146 Mobile Safari/537.36 XiaoMi/MiuiBrowser/8.9.6":
+'Xiaomi Xiaomi',
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Mobile/14A456 QQ/7.1.1.440 V1_IPH_SQ_7.1.1_1_APP_A Pixel/750 Core/UIWebView NetType/4G QBWebViewType/1":
+'QQ IP',
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 QQ/7.1.1.440 V1_IPH_SQ_7.1.1_1_APP_A Pixel/1080 Core/UIWebView NetType/WIFI QBWebViewType/1":
+'QQ IP',
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4":
+'SFR QQ',
+
+        "Mozilla/3.0 (compatible; Indy Library)":
+'Indy bot',
+        "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)":
+'Baidu bot',
+        "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)":
+'Netcraft bot',
+}
